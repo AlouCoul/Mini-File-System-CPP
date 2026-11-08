@@ -1,0 +1,25 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.bak
